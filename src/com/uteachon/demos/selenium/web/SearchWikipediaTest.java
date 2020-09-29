@@ -55,6 +55,6 @@ public class SearchWikipediaTest {
 		assertEquals("Software - Wikipedia", browserTitle);
 				
 		//7. Close the browser
-		browser.close();
+		browser.close(); //closes the browser
 	}
 }
